@@ -1,0 +1,5 @@
+<Simulation version="3.6.2">
+   <XMLScript Type="XMLScript">Simulation/CellMotion.xml</XMLScript>
+   <PythonScript Type="PythonScript">Simulation/CellMotion.py</PythonScript>
+   <Resource Type="Python">Simulation/CellMotionSteppables.py</Resource>
+</Simulation>
